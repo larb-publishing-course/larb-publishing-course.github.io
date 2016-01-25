@@ -1,0 +1,9 @@
+.site-footer {
+  background-color: $light-gray;
+}
+
+.footer-content {
+  @extend .container;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}

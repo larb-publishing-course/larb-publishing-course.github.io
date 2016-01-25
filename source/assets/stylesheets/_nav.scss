@@ -1,0 +1,71 @@
+$navigation-height: 60px;
+$navigation-background: $dark-gray;
+$navigation-color: transparentize(white, 0.3);
+$navigation-color-hover: white;
+$navigation-button-background: $action-color;
+
+header.navigation {
+  background-color: $navigation-background;
+  border-bottom: 1px solid darken($navigation-background, 10);
+  font-family: $sans-serif;
+  font-size: 0.85em;
+  font-weight: 300;
+  letter-spacing: 0.75px;
+  line-height: $navigation-height;
+  min-height: $navigation-height;
+  position: relative;
+  width: 100%;
+  z-index: 999;
+
+  nav {
+    @extend .container;
+  }
+}
+
+.navigation-logo {
+  background-image: url(image_path("larb_logotype.svg"));
+  height: $navigation-height;
+  width: 120px;
+
+  @include media($medium-screen-up) {
+    float: left;
+  }
+  
+  @include media($large-screen-up){
+    background-color: transparent;
+    background-image: url(image_path("larb_logo.svg"));
+    height: 200px;
+    position: absolute;
+    width: 90px;
+  }
+}
+
+
+ul.navigation-menu {
+  @include media($medium-screen-up){
+    float: right;
+  }
+}
+
+li.nav-link {
+  @include media($medium-screen-up){
+    float: left;
+    margin-right: 1.5rem;
+  }
+
+  a {
+    color: $navigation-color;
+    display: inline-block;
+    text-decoration: none;
+
+    &:focus,
+    &:hover {
+      color: $navigation-color-hover;
+    }
+  }
+
+  a.button {
+    @extend button;
+    font-family: $sans-serif;
+  }
+}

@@ -1,0 +1,11 @@
+= wrap_layout :application do
+  = partial "partials/hero"
+  .page-content
+    .page-content-main
+      %article
+        = yield
+    %aside.page-content-sidebar.omega
+      %h3 Elsewhere on the Web
+      %ul
+        %li= link_to "LARB Homepage", "http://lareviewofbooks.org"
+

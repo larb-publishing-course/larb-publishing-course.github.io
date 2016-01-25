@@ -1,0 +1,11 @@
+%header.navigation{:role => "banner"}
+  %nav{:role => "navigation"}
+    = link_to "/index.html" do
+      .navigation-logo
+    %ul.navigation-menu
+      %li.nav-link
+        = link_to "The Course", "/index.html"
+      %li.nav-link
+        = link_to "About LARB", "/about.html"
+      %li.nav-link
+        = link_to "Apply", "/about.html", {:class=>"button"}

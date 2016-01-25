@@ -1,6 +1,8 @@
 // Typography
-$base-font-family: $helvetica;
-$heading-font-family: $base-font-family;
+$serif: 'Merriweather', serif;
+$sans-serif: 'Merriweather Sans', sans-serif;
+$base-font-family: $serif;
+$heading-font-family: $sans-serif;
 
 // Font Sizes
 $base-font-size: 1em;
@@ -20,10 +22,11 @@ $blue: #1565c0;
 $dark-gray: #333;
 $medium-gray: #999;
 $light-gray: #ddd;
+$larb-red: rgb(155, 53, 53);
 
 // Font Colors
 $base-font-color: $dark-gray;
-$action-color: $blue;
+$action-color: $larb-red; 
 
 // Border
 $base-border-color: $light-gray;

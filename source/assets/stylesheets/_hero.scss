@@ -1,0 +1,54 @@
+.hero {
+  background-color: $light-gray;
+  background-image: url(image_path("cover_dark.jpg"));
+  background-position: center 40%;
+  background-size: cover;
+  height: 300px;
+
+  @include media($medium-screen-up) {
+    height: 250px;
+  }
+
+  @include media($large-screen-up) {
+    height: 450px;
+  }
+
+  @include display(flex);
+  @include flex-direction(row);
+  @include justify-content(flex-start);
+}
+
+.hero-content {
+  @extend .container;
+  align-self: center;
+  color: white;
+  text-align: left;
+  width: 100%;
+}
+
+.hero-content h1 {
+  font-family: $serif;
+  font-size: 2.75em;
+  font-weight: 400;
+  margin-bottom: 0.25em;
+
+  @include media($large-screen-up) {
+    font-size: 3em;
+  }
+}
+
+.hero-content h2 {
+  font-weight: 400;
+  font-size: 1.45em;
+  line-height: 1.6;
+  max-width: 400px;
+
+  @include media($medium-screen-up) {
+    max-width: 100%;
+  }
+
+  @include media($large-screen-up) {
+    font-size: 1.75em;
+  }
+}
+
