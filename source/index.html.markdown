@@ -1,7 +1,17 @@
 ---
 title: The LARB/USC Publishing Course
 subtitle: An eight-week immersive seminar in print and digital publishing
-layout: home
+layout: sections
+links:
+ - anchor: "course-information"
+   text: "Course Information"
+ - anchor: "real-world-publishing"
+   text: "Real World Publishing"
+ - anchor: "industry-experts"
+   text: "Industry Experts"
+ - anchor: "career-placement"
+   text: "Career Placement"
+
 ---
 ## _From the Craft to the Cutting-Edge_
 
@@ -15,7 +25,7 @@ All seminar leaders specialize in a different aspect of the magazine industry; g
 
 Dates | xxx
 Tuition | xxx
-Deadline | xxx
+Deadline | April 15, 2016 
 
 <br />
 
