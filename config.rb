@@ -1,3 +1,5 @@
+require_relative "./extensions/build_cleaner"
+
 activate :directory_indexes
 activate :autoprefixer
 
@@ -18,6 +20,7 @@ end
 
 configure :build do
   activate :relative_assets
+  activate :build_cleaner
 end
 
 activate :deploy do |deploy|
