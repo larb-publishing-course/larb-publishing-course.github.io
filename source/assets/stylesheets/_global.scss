@@ -11,14 +11,14 @@ body {
 .site-content {
   @include flex(1);
 }
-  
+
 
 .container {
   @include outer-container;
   max-width: 960px;
   padding: 0 1rem;
 
-  @include media($large-screen-up){
+  @include media($large-screen-up) {
     padding: 0;
   }
 }
@@ -37,6 +37,15 @@ body {
   @include media($medium-screen-up) {
     @include span-columns(4);
     line-height: 2.25;
+  }
+}
+
+.page-content-sidebar ul {
+  @include media($medium-screen-up) {
+    &.sticky {
+      position: fixed;
+      top: 20px;
+    }
   }
 }
 

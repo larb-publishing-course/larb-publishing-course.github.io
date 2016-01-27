@@ -1,10 +1,10 @@
 $navigation-height: 60px;
 $navigation-background: $dark-gray;
-$navigation-color: transparentize(white, 0.3);
-$navigation-color-hover: white;
+$navigation-color: transparentize(#fff, 0.3);
+$navigation-color-hover: #fff;
 $navigation-button-background: $action-color;
 
-header.navigation {
+.navigation {
   background-color: $navigation-background;
   border-bottom: 1px solid darken($navigation-background, 10);
   font-family: $sans-serif;
@@ -13,7 +13,6 @@ header.navigation {
   letter-spacing: 0.75px;
   line-height: $navigation-height;
   min-height: $navigation-height;
-  position: relative;
   width: 100%;
   z-index: 999;
 
@@ -30,8 +29,8 @@ header.navigation {
   @include media($medium-screen-up) {
     float: left;
   }
-  
-  @include media($large-screen-up){
+
+  @include media($large-screen-up) {
     background-color: transparent;
     background-image: url(image_path("larb_logo.svg"));
     height: 200px;
@@ -40,15 +39,44 @@ header.navigation {
   }
 }
 
+.navigation-menu {
+  @include transition(all 0.3s ease-in-out);
+  max-height: 0;
+  overflow: hidden;
 
-ul.navigation-menu {
-  @include media($medium-screen-up){
+  // css won't animate height, only max-height
+  &.active {
+    max-height: 1000px;
+  }
+
+  @include media($medium-screen-up) {
     float: right;
+    max-height: inherit;
   }
 }
 
-li.nav-link {
-  @include media($medium-screen-up){
+.nav-menu-icon {
+  font-size: 2.5em;
+  position: absolute;
+  right: 1.5rem;
+  top: 0;
+
+  @include media($medium-screen-up) {
+    display: none;
+  }
+
+  a {
+    color: $navigation-color;
+
+    &:focus,
+    &:hover {
+      color: $navigation-color-hover;
+    }
+  }
+}
+
+.nav-link {
+  @include media($medium-screen-up) {
     float: left;
     margin-right: 1.5rem;
   }
@@ -64,7 +92,7 @@ li.nav-link {
     }
   }
 
-  a.button {
+  .button {
     @extend button;
     font-family: $sans-serif;
   }
