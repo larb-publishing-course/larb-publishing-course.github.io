@@ -1,5 +1,5 @@
 ---
-title: The LARB USC Publishing Course
+title: The LARB USC Publishing Workshop
 subtitle: An Incubator for the Future of Publishing
 layout: sections
 links:
