@@ -6,7 +6,7 @@ links:
  - anchor: "overview"
    text: "Overview"
  - anchor: "topics-covered-include"
-   text: "Course Topics"
+   text: "Workshop Topics"
  - anchor: "career-placement"
    text: "Career Placement"
 ---

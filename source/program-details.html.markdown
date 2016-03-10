@@ -51,7 +51,7 @@ the program; the remainder is due no later than May 31, 2016.
 ## Housing:
 
 The Workshop offers housing on the USC campus from June 25 – July 31 for a cost
-of $2166 for single occupancy (one person/ room) and $1786 for single occupancy
+of $2166 for single occupancy (one person/ room) and $1786 for double occupancy
 (two people/ room).
 
 All housing comprises shared, air-conditioned suites, with four double rooms/
