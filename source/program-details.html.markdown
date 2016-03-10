@@ -10,19 +10,21 @@ links:
    text: "Eligibility"
  - anchor: "tuition"
    text: "Tuition"
+ - anchor: "scholarships"
+   text: "Scholarships"
  - anchor: "housing"
    text: "Housing"
  - anchor: "meals"
    text: "Meals"
  - anchor: "parking"
    text: "Parking"
- - anchor: "scholarships"
-   text: "Scholarships"
+ - anchor: "questions"
+   text: "Questions"
 ---
 
 ## Dates: 
 **Sunday, June 26, 2016 – Friday, July 29, 2016***  
-_* Students who register for the course commit to completing a series of
+_* Students who register for the workshop commit to completing a series of
 preliminary exercises throughout the month of June before arriving._
 
 ## Sample Schedule:
@@ -36,8 +38,8 @@ A sample weekly schedule and enlisted faculty TBA—stay tuned!
 
 ## Eligibility
 
-The program is open to current students and alumni of any college or university,
-not just USC, and will be hosted on the USC campus.
+The program is open to rising junior students and above, or alumni of any college
+or university, not just USC, and will be hosted on the USC campus.
 
 ## Tuition:
 
@@ -47,6 +49,15 @@ expenses incurred by participants.
 
 A deposit of $1500 is required to secure your spot once when you register for
 the program; the remainder is due no later than May 31, 2016.
+
+## Scholarships:
+
+Each year the Los Angeles Review of Books will enroll free of charge two USC
+students or alumni, to be distinguished as the “LARB-USC fellows.” In addition,
+LARB offers two scholarships for applicants not affiliated with USC. If you
+would like to be considered for a scholarship, please indicate which scholarship
+on the application, and include a statement of no more than 300 words explaining
+your reasons for requesting it.
 
 ## Housing:
 
@@ -87,11 +98,8 @@ will provide information for all registered participants about parking and other
 transportation options in the orientation materials students receive before the
 beginning of the program.
 
-## Scholarships:
 
-Each year the Los Angeles Review of Books will enroll free of charge two USC
-students or alumni, to be distinguished as the “LARB-USC fellows.” In addition,
-LARB offers two scholarships for applicants not affiliated with USC. If you
-would like to be considered for a scholarship, please indicate which scholarship
-on the application, and include a statement of no more than 300 words explaining
-your reasons for requesting it.
+## Questions
+
+For more information about the program or to ask questions, email us at
+publishingworkshop@lareviewofbooks.org.
