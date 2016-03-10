@@ -102,4 +102,4 @@ beginning of the program.
 ## Questions
 
 For more information about the program or to ask questions, email us at
-publishingworkshop@lareviewofbooks.org.
+[publishingworkshop@lareviewofbooks.org](mailto:publishingworkshop@lareviewofbooks.org).
