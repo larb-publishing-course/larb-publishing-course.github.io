@@ -71,3 +71,9 @@ body {
   margin-bottom: $small-spacing;
   padding-left: $base-spacing;
 }
+
+%default-ol {
+  list-style-type: decimal;
+  margin-bottom: $small-spacing;
+  padding-left: $base-spacing;
+}

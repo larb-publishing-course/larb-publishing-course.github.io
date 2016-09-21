@@ -144,5 +144,9 @@ article {
     line-height: 1.65em;
     margin-bottom: 1rem;
   }
+
+  ol {
+    @extend %default-ol;
+  }
 }
 
