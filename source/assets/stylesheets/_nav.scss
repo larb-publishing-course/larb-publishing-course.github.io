@@ -33,9 +33,9 @@ $navigation-button-background: $action-color;
   @include media($large-screen-up) {
     background-color: transparent;
     // old logo
-    background-image: url(image_path("larb_logo_old.svg"));
+    background-image: url(image_path("larb_logo.svg"));
     background-repeat: no-repeat;
-    height: 158px;
+    height: 201px;
 
     // new logo
     // background-image: url(image_path("larb_logo.svg"));

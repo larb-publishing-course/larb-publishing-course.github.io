@@ -4,12 +4,12 @@ layout: sections
 links:
  - anchor: "dates"
    text: "Dates"
- - anchor: "sample-schedule"
-   text: "Sample Schedule"
+ - anchor: "schedule"
+   text: "Schedule"
  - anchor: "eligibility"
    text: "Eligibility"
- - anchor: "scholarships"
-   text: "Scholarships"
+ - anchor: "fellowships"
+   text: "Fellowships"
  - anchor: "workshop-costs"
    text: "Workshop Costs"
  - anchor: "questions"
@@ -23,7 +23,7 @@ links:
 \* Students who register for the workshop commit to completing a series of
 preliminary exercises throughout the month of June before arriving.
 
-## Sample Schedule:
+## Schedule:
 
 The Workshop is a rigorous, intensive program; prospective applicants should
 expect to be working together on projects all day, every day that they are in
@@ -37,16 +37,16 @@ A sample weekly schedule and enlisted faculty TBA—stay tuned!
 The program is open to both current students (rising junior students and above)
 and those who have already graduated (alumni of any college or university).
 
-## Scholarships:
+## Fellowships:
 
 We hope to offer at least half of the seats in the course tuition-free, and
 another quarter at reduced tuition. If you would like to be considered for a
-scholarship, please review workshop costs below and then the scholarship
+fellowship, please review workshop costs below and then the fellowship
 guidelines and instructions on the application.
 
 In addition, each year the Los Angeles Review of Books will enroll free of
 charge two USC students or alumni, to be distinguished as the &quot;LARB-USC
-fellows.&quot; If you are interested in this scholarship, please indicate so on
+fellows.&quot; If you are interested in this fellowship, please indicate so on
 the application.
 
 ## Workshop Costs

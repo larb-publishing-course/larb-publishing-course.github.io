@@ -2,46 +2,46 @@
 title: Faculty
 layout: page
 ---
+
 **Jeffrey Cole**: Director, Center for the Digital Future, USC Annenberg School
 for Communication and Journalism
 
-**Cory Doctorow**, co-editor of Boing Boing, former European Affairs Coordinator
+**Cory Doctorow**: Co-editor of Boing Boing, former European Affairs Coordinator
 for Electronic Frontier Foundation
 
-**Kate Gale**: founding editor, Red Hen Press
+**Kate Gale**: Founding editor, Red Hen Press **Joel Goldberg**: Senior counsel,
+Netflix
 
-**Joel Goldberg,**: senior counsel, Netflix
+**Matt Hewes**: App design
 
-**Matt Hewes**: app design (remote)
-
-**Dennis Johnson**: founding editor of Melville House press.
+**Dennis Johnson**: Founding editor of Melville House press.
 
 **Marty Kaplan**: Norman Lear Chair in Entertainment, Media and Society,
-Directorof Norman Lear Center, Annenberg School for Communication and Journlism,
-USC
+Director of Norman Lear Center, Annenberg School for Communication and
+Journalism, USC
 
-**Albert Litewka,** EIC Macmillan, President Time Warner Publishing, President
-Baker &amp; Taylor, founder Creative Domain
+**Albert Litewka**: EIC Macmillan, President Time Warner Publishing, President
+Baker & Taylor, founder Creative Domain
 
-**Paul Mandelbaum**: former managing editor of Story Magazine, journalist,
+**Paul Mandelbaum**: Former managing editor of _Story Magazine_, journalist,
 novelist
 
-**Davan Maharaj**: editor in chief, LA Times
+**Davan Maharaj**: Editor in chief, the _Los Angeles Times_
 
-**Tim McCarthy,** Sinclair Printing (we&#39;ll be going to him)
+**Tim McCarthy**: Sinclair Printing
 
-**Colin Robinson**: founding editor of O/R Books
+**Colin Robinson**: Founding editor of O/R Books
 
-**Bob Stein**: Digital culture pioneer, founder and Co-Director of the Institute
+**Joshua Wolf Shenk**: Director, Black Mountain Institute, UNLV; co-founder, The
+Moth Radio Hour; editor at _The New Republic_, _The Washington Monthly_, and
+_The Economist_.
+
+**Bob Stein**: Digital culture pioneer, founder and co-director of the Institute
 for the Future of the Book, and founder of The Voyager Company and The Criterion
 Collection
 
-**Steve Wasserman**: editor in chief of Heyday Books, former editor of LA Times
-Book Review, editor at Yale University Press
+**Steve Wasserman**: editor in chief of Heyday Books, former editor of _LA Times
+Book Review_, editor at Yale University Press
 
-**Laurie Winer,** editor Harpers Bazaar, critic Wall Street Journal, New York
-Times, LA Times (and the rest of us)
-
-**Joshua Wolf Shenk,** director, Black Mountain Institute, UNLV; co-founder, The
-Moth Radio Hour; editor at The New Republic, The Washington Monthly, and The
-Economist.
+**Laurie Winer**, editor _Harpers Bazaar_, critic _Wall Street Journal_, _New
+York Times_, _LA Times_ (and the rest of us)

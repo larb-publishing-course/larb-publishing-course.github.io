@@ -107,6 +107,10 @@ article {
       font-family: $sans-serif;
       font-weight: 700;
     }
+
+    @include media($large-screen-up) {
+      font-size: 1.35em;
+    }
   }
 
   a.read-more {

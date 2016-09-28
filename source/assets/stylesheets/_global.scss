@@ -15,7 +15,7 @@ body {
 
 .container {
   @include outer-container;
-  max-width: 960px;
+  // max-width: 960px;
   padding: 0 1rem;
 
   @include media($large-screen-up) {
@@ -26,16 +26,25 @@ body {
 .page-content {
   @extend .container;
   margin-top: 2rem;
+
+  /* article { */
+    /* @include media($medium-screen-up) { */
+      /* @include span-columns(8); */
+      /* @include shift(2); */
+    /* } */
+  /* } */
 }
 
 .page-content-sidebar {
+  @include omega;
   font-family: $sans-serif;
   font-size: 1em;
   line-height: 2;
   margin-bottom: 2rem;
 
   @include media($medium-screen-up) {
-    @include span-columns(4);
+    @include span-columns(3);
+    @include shift(1);
     font-size: 1.125em;
     line-height: 2.25;
   }

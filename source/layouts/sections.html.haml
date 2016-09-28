@@ -1,11 +1,11 @@
 = wrap_layout :application do
   = partial "partials/hero"
   .page-content
+    .page-content-main.omega
+      %article
+        = yield
     %aside.page-content-sidebar
       %ul
         - current_page.data.links.each do |link|
           %li
             %a{:href=>"##{link.anchor}"}= link.text
-    .page-content-main.omega
-      %article
-        = yield

@@ -78,3 +78,10 @@ This is the publishing course of the future, helping to create the publishing
 word of the future. The faculty is dedicated to achieving a 100% placement
 record for workshop participants and to giving them the tools and networks to
 make that possible.
+
+### Deadlines for applications:
+
+To be considered for financial aid, apply by March 31.
+
+Applications will be considered until April 30.
+
